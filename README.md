@@ -1,0 +1,3 @@
+# Lua Script Plugin for Duality2D
+
+More info soon...
