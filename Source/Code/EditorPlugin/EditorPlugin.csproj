@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>LuaScriptPlugin.Editor</RootNamespace>
-    <AssemblyName>GamePlugin.editor</AssemblyName>
+    <AssemblyName>Skoggy.Duality.Editor.Plugins.LuaScriptPlugin.editor</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>0.0.1</version>
+    <authors>Skoggy</authors>
+    <owners>Skoggy</owners>
+    <projectUrl></projectUrl>
+    <iconUrl>https://github.com/eriksk/LuaScriptPlugin</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Lua Script Plugin for Duality2D</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Duality Plugin Core Editor Sample</tags>
+    <dependencies>
+      <dependency id="SampleDependency" version="1.0" />
+    </dependencies>
+  </metadata>
+</package>

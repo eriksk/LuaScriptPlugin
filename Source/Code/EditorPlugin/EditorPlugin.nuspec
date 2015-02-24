@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>0.0.3</version>
+    <authors>Skoggy</authors>
+    <owners>Skoggy</owners>
+    <title>Lua Script Editor Plugin</title>
+    <projectUrl>https://github.com/eriksk/LuaScriptPlugin</projectUrl>
+    <iconUrl>http://i.imgur.com/n9KJ9lk.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Lua Script Plugin for Duality2D</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Duality Plugin Editor</tags>
+  </metadata>
+</package>
